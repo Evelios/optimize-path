@@ -1,0 +1,32 @@
+{
+  "name": "optimize-paths",
+  "version": "1.0.0",
+  "description": "This is an optimization algorithm to optimize a list of paths to minimize the amount of time needed to draw the paths with a pen-plotter",
+  "main": "optimize-paths.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evelios/optimize-path.git"
+  },
+  "keywords": [
+    "svg",
+    "paths",
+    "line",
+    "plotter",
+    "vector"
+  ],
+  "author": "Thomas Waters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Evelios/optimize-path/issues"
+  },
+  "homepage": "https://github.com/Evelios/optimize-path#readme",
+  "dependencies": {
+    "deep-copy": "^1.4.2"
+  },
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
