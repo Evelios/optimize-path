@@ -1,6 +1,6 @@
 {
   "name": "optimize-paths",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is an optimization algorithm to optimize a list of paths to minimize the amount of time needed to draw the paths with a pen-plotter",
   "main": "optimize-paths.js",
   "scripts": {
